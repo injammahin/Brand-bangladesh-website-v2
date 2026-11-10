@@ -1,0 +1,330 @@
+[
+  {
+    "slug": "rangpur",
+    "name": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
+    "alias": null,
+    "accent": "#DF1A23",
+    "districtCount": 8,
+    "districts": [
+      "Dinajpur",
+      "Gaibandha",
+      "Kurigram",
+      "Lalmonirhat",
+      "Nilphamari",
+      "Panchagarh",
+      "Rangpur",
+      "Thakurgaon"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/rangpur-hero.jpg",
+      "video": "/assets/video/divisions/rangpur-loop.mp4",
+      "relief": "/assets/images/divisions/rangpur-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  },
+  {
+    "slug": "rajshahi",
+    "name": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
+    "alias": null,
+    "accent": "#D9AA66",
+    "districtCount": 8,
+    "districts": [
+      "Bogura",
+      "Joypurhat",
+      "Naogaon",
+      "Natore",
+      "Chapainawabganj",
+      "Pabna",
+      "Rajshahi",
+      "Sirajganj"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/rajshahi-hero.jpg",
+      "video": "/assets/video/divisions/rajshahi-loop.mp4",
+      "relief": "/assets/images/divisions/rajshahi-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  },
+  {
+    "slug": "mymensingh",
+    "name": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
+    "alias": null,
+    "accent": "#F68421",
+    "districtCount": 4,
+    "districts": [
+      "Jamalpur",
+      "Mymensingh",
+      "Netrokona",
+      "Sherpur"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/mymensingh-hero.jpg",
+      "video": "/assets/video/divisions/mymensingh-loop.mp4",
+      "relief": "/assets/images/divisions/mymensingh-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  },
+  {
+    "slug": "sylhet",
+    "name": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
+    "alias": null,
+    "accent": "#FECB02",
+    "districtCount": 4,
+    "districts": [
+      "Habiganj",
+      "Moulvibazar",
+      "Sunamganj",
+      "Sylhet"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/sylhet-hero.jpg",
+      "video": "/assets/video/divisions/sylhet-loop.mp4",
+      "relief": "/assets/images/divisions/sylhet-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  },
+  {
+    "slug": "khulna",
+    "name": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
+    "alias": null,
+    "accent": "#A5CD2F",
+    "districtCount": 10,
+    "districts": [
+      "Bagerhat",
+      "Chuadanga",
+      "Jashore",
+      "Jhenaidah",
+      "Khulna",
+      "Kushtia",
+      "Magura",
+      "Meherpur",
+      "Narail",
+      "Satkhira"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/khulna-hero.jpg",
+      "video": "/assets/video/divisions/khulna-loop.mp4",
+      "relief": "/assets/images/divisions/khulna-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  },
+  {
+    "slug": "dhaka",
+    "name": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
+    "alias": null,
+    "accent": "#EF1551",
+    "districtCount": 13,
+    "districts": [
+      "Dhaka",
+      "Faridpur",
+      "Gazipur",
+      "Gopalganj",
+      "Kishoreganj",
+      "Madaripur",
+      "Manikganj",
+      "Munshiganj",
+      "Narayanganj",
+      "Narsingdi",
+      "Rajbari",
+      "Shariatpur",
+      "Tangail"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/dhaka-hero.jpg",
+      "video": "/assets/video/divisions/dhaka-loop.mp4",
+      "relief": "/assets/images/divisions/dhaka-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  },
+  {
+    "slug": "barishal",
+    "name": {
+      "en": "Barishal",
+      "bn": "বরিশাল"
+    },
+    "alias": null,
+    "accent": "#016171",
+    "districtCount": 6,
+    "districts": [
+      "Barguna",
+      "Barishal",
+      "Bhola",
+      "Jhalokati",
+      "Patuakhali",
+      "Pirojpur"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/barishal-hero.jpg",
+      "video": "/assets/video/divisions/barishal-loop.mp4",
+      "relief": "/assets/images/divisions/barishal-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  },
+  {
+    "slug": "chattogram",
+    "name": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
+    "alias": "Chittagong",
+    "accent": "#479E90",
+    "districtCount": 11,
+    "districts": [
+      "Bandarban",
+      "Brahmanbaria",
+      "Chandpur",
+      "Chattogram",
+      "Cox's Bazar",
+      "Cumilla",
+      "Feni",
+      "Khagrachhari",
+      "Lakshmipur",
+      "Noakhali",
+      "Rangamati"
+    ],
+    "hero": {
+      "image": "/assets/images/divisions/chattogram-hero.jpg",
+      "video": "/assets/video/divisions/chattogram-loop.mp4",
+      "relief": "/assets/images/divisions/chattogram-relief.png",
+      "credit": "TODO"
+    },
+    "intro": {
+      "en": "TODO",
+      "bn": "TODO"
+    },
+    "places": [],
+    "food": [],
+    "culture": [],
+    "gallery": [],
+    "stats": [
+      {
+        "label": "TODO",
+        "value": "TODO",
+        "source": "TODO"
+      }
+    ]
+  }
+]
